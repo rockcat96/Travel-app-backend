@@ -1,6 +1,6 @@
  # Travel Bucket List
 
-This app allows the user to keep a running a list of all the countries they want to visit. The app help users remember which country they want to visit and capture the basic info of a destination such as the best month to visit, number of days to visit, etc to help them plan their travels for the year. Users will be able to add, edit, update and delete countries from their database as they see fit. 
+This app allows the user to keep a running a list of all the countries they want to visit. The app help users remember which country they want to visit and capture the basic info of a destination such as the best month to visit, number of days to visit, etc to help them plan their travels for the year. Users will be able to add, edit, update and delete countries from their database as they see fit.
 
 
  ### Tech Stack
@@ -20,12 +20,9 @@ This app allows the user to keep a running a list of all the countries they want
  ![wireframe2](https://i.imgur.com/LVj83bt.png)
 
  ### App Images
- Coming soon...
- <!-- ![app screenshots 1](https://i.imgur.com/ndwzPiR.png)
- ![app screenshots 2](https://i.imgur.com/rJRVrtr.png)
- ![app screenshots 3](https://i.imgur.com/s2YfoZa.png)
- ![app screenshots 4](https://i.imgur.com/OYWUwFx.png)
- ![app screenshots 5](https://i.imgur.com/0pF80aw.png) -->
+
+ ![app index page](https://i.imgur.com/jrF2weW.png)
+ ![app show page](https://i.imgur.com/MB2hEAw.png)
 
 ### Backend Schema
 | Schema | Data Type   | Defintion   |
